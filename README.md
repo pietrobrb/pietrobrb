@@ -42,4 +42,4 @@ Currently expanding my knowledge in **Javascript**, **PostgreSQL**, and **Python
 
 ---
 
-⭐ _“Consistent learning builds lasting progress.”_
+
